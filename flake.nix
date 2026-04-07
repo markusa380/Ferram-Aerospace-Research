@@ -11,6 +11,7 @@
       in {
         devShell = pkgs.mkShell {
           buildInputs = [
+            # May be needed by your editor
             # pkgs.dotnet-sdk
             pkgs.mono6
             pkgs.msbuild
