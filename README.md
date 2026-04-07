@@ -88,7 +88,7 @@ Create a file called `Directory.Build.props.user` with the following content:
 <Project>
   <PropertyGroup>
     <KSP_DIR_BUILD>your/path/to/Kerbal Space Program</KSP_DIR_BUILD>
-    <KSP_DATA_DIRNAME>KSP_x64_Data</KSP_DATA_DIRNAME>
+    <KSP_DATA_DIRNAME>KSP_Data</KSP_DATA_DIRNAME>
   </PropertyGroup>
 </Project>
 ```
